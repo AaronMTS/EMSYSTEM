@@ -283,3 +283,8 @@ button:active {
   background-color: transparent;
   padding: 4.5px 0;
 }
+
+
+#add-modal {
+  background-color: #fff;
+}
